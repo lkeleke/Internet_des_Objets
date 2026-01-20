@@ -1,0 +1,1 @@
+mbed add https://github.com/catie-aq/mbed_bosch-sensortec-bme280.git bme280
