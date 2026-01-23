@@ -8,7 +8,7 @@ using namespace sixtron;
 
 
 #define IO_USERNAME  "segroupe7"
-#define IO_KEY       "aio_JDUC41UdUemIDC292LCTcczBFTyJ"
+#define IO_KEY       "put your key"
 
 #define TOPIC_TEMP   IO_USERNAME "/feeds/temperature"
 #define TOPIC_HUM    IO_USERNAME "/feeds/humidite"
